@@ -1,0 +1,16 @@
+# Compiled Binaries
+sentinel
+*.o
+a.out
+
+# Data & Logs
+server_logs.csv
+alert.csv
+
+# Python
+__pycache__/
+*.py[cod]
+
+# System Files
+.DS_Store
+Thumbs.db
